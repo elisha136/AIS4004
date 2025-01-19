@@ -1,0 +1,19 @@
+Feature,Coefficient
+Starboard Propeller Torque (Ts) [kN],0.27059446754218536
+Port Propeller Torque (Tp) [kN],0.27059446754218536
+Hight Pressure (HP) Turbine exit temperature (T48) [C],0.2386721686362933
+Ship speed (v),0.08650763806230122
+GT Compressor outlet air pressure (P2) [bar],0.07859331563988918
+Lever position,0.031134539985367252
+GT rate of revolutions (GTn) [rpm],0.009815963379840698
+GT Compressor outlet air temperature (T2) [C],0.009024066495497234
+HP Turbine exit pressure (P48) [bar],0.0016680529050902145
+index,0.000549013861182051
+GT Compressor decay state coefficient,-0.0010225089378422504
+GT Compressor inlet air pressure (P1) [bar],-0.0013018399110352502
+GT exhaust gas pressure (Pexh) [bar],-0.0013063694142041796
+Fuel flow (mf) [kg/s],-0.0021930443884786706
+Turbine Injecton Control (TIC) [%],-0.003094430354966244
+Gas Generator rate of revolutions (GGn) [rpm],-0.004087150940316301
+Gas Turbine (GT) shaft torque (GTT) [kN m],-0.006977672769666401
+GT Compressor inlet air temperature (T1) [C],-0.3756812569283267
